@@ -81,5 +81,6 @@ export default NextAuth({
       }
 
     },
-  }
+  },
+  secret: 'teste1234'
 })
